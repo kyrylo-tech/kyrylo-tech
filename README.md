@@ -4,10 +4,10 @@
   <a href="https://kyrylo.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Website-kyrylo.tech-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/kyrylo-bitsay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/kyrylo_tech" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
