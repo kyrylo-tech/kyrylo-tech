@@ -28,7 +28,7 @@
 
 ### 🛠 Мій стек & інструменти
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,docker,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,postgres,cloudflare,railway,git,linux" alt="Tech Stack" />
 </p>
 
 ---
